@@ -1,7 +1,7 @@
+#EXP 1
 #1Installation and set up of python
 
 #2 Create a variable and Store your age and print its type
-"""
 age = 19
 print(age,type(age))
 
@@ -105,7 +105,7 @@ elif choice == 'R':
 else:
     print("Invalid choice! Please enter 'L' or 'R'.")
 
-"""
+
 #14  Using membership operator find whether a given number is in sequence (10,20,56,78,89)
 
 S = (10,20,56,78,89)
@@ -116,3 +116,4 @@ else :
              print("No. is not in sequence" )
 
          
+
