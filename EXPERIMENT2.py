@@ -1,5 +1,5 @@
 #EXP 2
-"""
+
 #1 WAP WHETHER A GIVEN NO IS DIVISBLE BY 3 AND 5 BOTH
 Num = int(input("Enter the no you want to check:"))
 if ( Num % 3 == 0 and Num %  5 == 0):
@@ -100,7 +100,7 @@ year = int(input("Enter year: "))
 next_day, next_month, next_year = next_date(day, month, year)
 print(f"Next Date: day={next_day} month={next_month} year={next_year}")
 
-"""
+
 """
 #8Print the grade sheet of a student for the given range of cgpa. Scan marks of five subjects 
 and calculate the percentage. 
@@ -148,6 +148,7 @@ print(f"Total: {total}")
 print(f"Percentage: {percentage:.2f}%")
 print(f"CGPA: {cgpa:.2f}")
 print(f"Grade: {grade}")
+
 
 
 
